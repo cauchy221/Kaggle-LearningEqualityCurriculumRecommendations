@@ -1,2 +1,2 @@
-# Kaggle-LearningEqualityCurriculumRecommendations
-link: https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations
+# Kaggle-LECR
+see [this](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations) page for more details!
