@@ -1,5 +1,5 @@
 # Kaggle-LECR
-see [this](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations) page for more details!`
+see [this](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations) page for more details!
 
 `EDA.ipynb`: Exploratoty Data Analysis
 
