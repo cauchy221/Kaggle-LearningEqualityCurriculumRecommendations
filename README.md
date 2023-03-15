@@ -1,8 +1,8 @@
 # Kaggle-LECR
 see [this](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations) page for more details!
 
-`EDA.ipynb`: Exploratoty Data Analysis
+We chose a two-stage solution: uns_training -> retrieve ->  sup_training -> rerank -> inference
 
-`Simple Baseline.ipynb`: Using SBERT pre-trained model to predict (NO TRAINING PHASE)
+Final LB (private): 0.570 (97/1070)
 
-`SBERT Baseline-Dataset and Train.ipynb`: Build a simple dataset to train a SBERT model (unsupervised SimCSE model) then add it as a dataset for future use
+It's not good enough but it's my first kaggle competition :)
